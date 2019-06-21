@@ -153,6 +153,6 @@ export namespace Sys {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    background: #36393e;
+    background: #505466;
   `
 }

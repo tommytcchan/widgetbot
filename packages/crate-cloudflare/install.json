@@ -93,7 +93,7 @@
                       "value": "free"
                     }
                   },
-                  "default": "#36393E",
+                  "default": "#505466",
                   "format": "color",
                   "title": "Widget background",
                   "type": "string"

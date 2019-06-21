@@ -34,7 +34,7 @@ export const Content = styled(Markdown)<ReactMarkdownProps>`
 
   max-width: calc(100% - 100px);
   transform: translate3d(0, 0, 0);
-  background-color: #36393e;
+  background-color: #505466;
   color: rgba(255, 255, 255, 0.7);
   word-wrap: break-word;
   word-break: break-word;
@@ -57,7 +57,7 @@ export const Content = styled(Markdown)<ReactMarkdownProps>`
     position: absolute;
     top: 0;
     border-style: solid;
-    border-color: #36393e transparent;
+    border-color: #505466 transparent;
     display: block;
     width: 0;
 

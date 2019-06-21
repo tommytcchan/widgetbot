@@ -38,7 +38,7 @@ const state: State = {
     colors: {
       primary: '#fff',
       accent: '#7289da',
-      background: '#36393E'
+      background: '#505466'
     },
     css: ``,
     compact: false
