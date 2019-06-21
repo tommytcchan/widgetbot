@@ -73,3 +73,11 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
+
+
+To start server run the following command:
+-----------------------------------------
+
+```
+cd widgetbot/packages/server/ && forever start -c "sudo ts-node -r tsconfig-paths/register" src/server.ts
+```
